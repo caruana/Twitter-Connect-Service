@@ -17,6 +17,7 @@
     "twit": "latest",
     "mongoose": "^3.8.18",
     "async": "latest",
-    "twitter-text": "latest"
+    "twitter-text": "latest",
+    "moment": "latest"
   }
 }
