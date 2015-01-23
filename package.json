@@ -1,0 +1,22 @@
+{
+  "name": "Kithn-Twitter-Client",
+  "version": "0.0.1",
+  "description": "This is a twitter client that streams the business accounts that are saved in the central Kithn-Server database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kithn",
+    "Twitter",
+    "Stream"
+  ],
+  "author": "Brandon Caruana",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "latest",
+    "mongoose": "^3.8.18",
+    "async": "latest",
+    "twitter-text": "latest"
+  }
+}
